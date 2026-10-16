@@ -17,7 +17,3 @@
 ### 쓰는 것
 
 Unity (C#) · Godot 4 (C#) · Next.js / TypeScript · Claude Code 하네스 설계
-
-### 작업 방식
-
-개인 프로젝트의 코드는 대부분 Claude Code가 씁니다. 제가 하는 일은 명세를 문서와 스킬로 고정하고, 검증 시나리오를 만들고, 경계에서 판단하는 것입니다. 커밋의 Co-Authored-By 트레일러가 그 기록입니다.
